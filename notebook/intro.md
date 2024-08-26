@@ -1,6 +1,6 @@
 # Introduction
 
-### Preface
+### About
 
 This is an ongoing project.
 

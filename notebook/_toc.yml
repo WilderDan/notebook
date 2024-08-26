@@ -4,6 +4,7 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Section Name 
+  - caption: Algebra
     chapters:
-      - file: example.ipynb 
+      - file: parts/algebra/00-introduction.md
+      - file: parts/algebra/01-matrices.ipynb 
