@@ -2,9 +2,10 @@
 
 ### About
 
-This is a website is for sharing my notes.
-This is an ongoing project.
-I also have a [blog](https://www.wilderdan.com/).
+This is probably an abandoned project. 
+I'm keeping it up as a tech demo for Jupyter Notebooks, Jupyter Book, LaTeX/markdown, and some python code.
+
+Checkout my [blog](https://www.wilderdan.com/).
 
 ### Contents
 
